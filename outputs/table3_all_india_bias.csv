@@ -1,0 +1,6 @@
+Measure,Pass A: Design only,Pass B: Design + reporting
+Mean true annual HH profit,"Rs. 227,266","Rs. 227,266"
+Mean NHIS-estimated profit,"Rs. 205,329","Rs. 137,408"
+All-India bias,-9.7%,-39.5%
+Rural bias,-9.7%,-41.4%
+Urban bias,-9.6%,-38.5%
