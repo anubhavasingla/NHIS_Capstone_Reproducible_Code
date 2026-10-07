@@ -1,5 +1,5 @@
 # NHIS_Capstone_Reproducible_Code
-This is the reproducibility package attached to my final year capstone, written at UC Berkeley in collaboration with the World Bank and Advised by Prof. Carlos Schmidt Padilla
+This is the reproducibility package attached to my final year capstone, written at UC Berkeley in collaboration with the World Bank and advised by Prof. Carlos Schmidt Padilla
 
 For the assumptions behind the synthetic data and the limits of what it can show, see [LIMITATIONS.md](LIMITATIONS.md).
 
