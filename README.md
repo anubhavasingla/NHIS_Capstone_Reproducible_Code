@@ -3,6 +3,8 @@ This is the reproducibility package attached to my final year capstone, written 
 
 For the assumptions behind the synthetic data and the limits of what it can show, see [LIMITATIONS.md](LIMITATIONS.md).
 
+The full capstone paper is in [paper/](paper/Anubhava_ResearchSample_Capstone.pdf). The tables and figures in `outputs/` come from a different run than the one reported in the paper, so a few numbers differ slightly (for example, all-India design-only bias of −9.7% here against −9.8% in the paper). I plan to reconcile the two in a future update.
+
 This folder contains the code and inputs needed to reproduce the figures and
 tables in Section 3.1.1 of the capstone, which evaluates the NHIS 2026
 non-agricultural self-employment module using a synthetic ground-truth
