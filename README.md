@@ -1,6 +1,7 @@
 # NHIS_Capstone_Reproducible_Code
 This is the reproducibility package attached to my final year capstone, written at UC Berkeley in collaboration with the World Bank and Advised by Prof. Carlos Schmidt Padilla
 
+For the assumptions behind the synthetic data and the limits of what it can show, see [LIMITATIONS.md](LIMITATIONS.md).
 
 This folder contains the code and inputs needed to reproduce the figures and
 tables in Section 3.1.1 of the capstone, which evaluates the NHIS 2026
